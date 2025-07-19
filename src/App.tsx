@@ -16,12 +16,12 @@ interface CalculationResult {
 
 const valores = {
   poligono: {
-    'central': 500.00,
-    'medio-central': 400.00,
-    'intermediario': 350.00,
-    'medio-intermediario': 250.00,
-    'intermediario-periferico': 175.00,
-    'periferico': 100.00
+    'central': 700.00,
+    'medio-central': 560.00,
+    'intermediario': 490.00,
+    'medio-intermediario': 350.00,
+    'intermediario-periferico': 245.00,
+    'periferico': 140.00
   },
   edificacao: {
     'casa': 1042.00,
