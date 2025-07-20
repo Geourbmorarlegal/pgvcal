@@ -287,12 +287,12 @@ function App() {
                     onChange={(e) => handleInputChange('poligono', e.target.value)}
                     className="w-full px-4 py-3 border-2 border-gray-300 rounded-lg focus:border-blue-500 focus:outline-none transition-colors"
                   >
-                    <option value="central">Central (R$ 500,00/m²)</option>
-                    <option value="medio-central">Médio Central (R$ 400,00/m²)</option>
-                    <option value="intermediario">Intermediário (R$ 350,00/m²)</option>
-                    <option value="medio-intermediario">Médio-Intermediário (R$ 250,00/m²)</option>
-                    <option value="intermediario-periferico">Intermediário-Periférico (R$ 175,00/m²)</option>
-                    <option value="periferico">Periférico (R$ 100,00/m²)</option>
+                    <option value="central">Central (R$ 700.00,00/m²)</option>
+                    <option value="medio-central">Médio Central (R$ 560,00/m²)</option>
+                    <option value="intermediario">Intermediário (R$ 490,00/m²)</option>
+                    <option value="medio-intermediario">Médio-Intermediário (R$ 350,00/m²)</option>
+                    <option value="intermediario-periferico">Intermediário-Periférico (R$ 245,00/m²)</option>
+                    <option value="periferico">Periférico (R$ 140,00/m²)</option>
                   </select>
                 </div>
 
